@@ -1,0 +1,23 @@
+.styled-image{
+    max-width: 500px;
+    border: 5px solid #fff;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.home-footer{
+    color: blueviolet;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    margin: 0;
+    font-family:Arial, sans-serif; 
+    background-color: #f0f0f0;
+    background-image: url("C:\Users\OB-Tech Solutions\Downloads\OneDrive_2025-03-31\Week 3\zaza.jpeg"); /*location of the image*/
+    background-repeat: no-repeat; /*to prevent the image from repeating*/
+    background-size: cover; /*to make the image cover the whole screen*/
+    background-position: center; /*to position the image in the center*/
+}
